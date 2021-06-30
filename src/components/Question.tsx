@@ -9,6 +9,8 @@ type QuestionProps = {
         avatar:string;
     }
     children?:ReactNode;
+    isAnswer?: boolean;
+    isWighlighted?: boolean;
 
 }
 

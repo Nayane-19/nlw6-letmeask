@@ -46,8 +46,8 @@ export function useRoom(roomId:string){
                     id: key,
                     content: value.content,
                     author: value.author,
-                    isWighlighted: value.isWighlighted,
                     isAnswer: value.isAnswer,
+                    isWighlighted: value.isWighlighted,
                     likeCount: Object.values(value.likes ?? {}).length,
                     likeId: Object.entries(value.likes ?? {}).find(([key, like]) => like.authorId === user?.id)?.[0],
                 }             
