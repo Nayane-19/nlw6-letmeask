@@ -2,7 +2,14 @@
 
 <p align="center">Este projeto foi construído durante a NLW Together da Rocketseat utilizando a biblioteca  <a href="https://pt-br.reactjs.org/">🔗 React</a></p>
 
+<h2 align="center">Home</h2>
 <p align="center"><img src="https://media.giphy.com/media/16H18sVFqrbHqMw9TV/giphy.gif"/></p>
+
+<h2 align="center">Criação de Salas</h2>
+<p align="center"><img src="https://media.giphy.com/media/CFl1ogNE7wNW6Rh0M1/giphy.gif"/></p>
+
+<h2 align="center">Sala Admin</h2>
+<p align="center"><img src="https://media.giphy.com/media/xlhTEAgHoEgURKOvQY/giphy.gif"/></p>
 
 ## Dependências
 
